@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer,
 ---------------------------
 
-a university student with a passion for developing innovative solutions to complex problems. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives.
+I am a university student with a passion for developing innovative solutions to complex problems. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives.
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [skwdevelopment@gmail.com](mailto:skwdevelopment@gmail.com)
